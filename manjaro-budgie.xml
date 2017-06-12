@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+<wallpaper>
+<name>/usr/share/backgrounds/Budgie_minimal wall.jpg</name>
+<filename>/usr/share/backgrounds/Budgie_minimal wall.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/budgie wall.jpg</name>
+<filename>/usr/share/backgrounds/budgie wall.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/dark_grey_texture_by_tefrem34.jpg</name>
+<filename>/usr/share/backgrounds/dark_grey_texture_by_tefrem34.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro-gnome-lockscreen_1920_1200px.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-gnome-lockscreen_1920_1200px.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro_stripes_wallpaper_1920x1200px.jpg</name>
+<filename>/usr/share/backgrounds/manjaro_stripes_wallpaper_1920x1200px.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro_triangles_wallpaper_1920x1200px.jpg</name>
+<filename>/usr/share/backgrounds/manjaro_triangles_wallpaper_1920x1200px.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/budgieClear_1600x1200.png</name>
+<filename>/usr/share/backgrounds/budgieClear_1600x1200.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/budgieClear_1920x1080.png</name>
+<filename>/usr/share/backgrounds/budgieClear_1920x1080.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/budgieDark_1920x1080.png</name>
+<filename>/usr/share/backgrounds/budgieDark_1920x1080.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
