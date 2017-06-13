@@ -1,2 +1,4 @@
 # Budgie-Artwork
-Artworks repository for Budgie Desktop
+
+A collection of wallpapers made by our community
+https://forum.manjaro.org/

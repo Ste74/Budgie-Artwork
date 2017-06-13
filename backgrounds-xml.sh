@@ -4,7 +4,7 @@
 
 DE=budgie
 DIRECTORY=/home/$USER/Github/Budgie-Artwork/
-ABSPATH=/usr/share/backgrounds/
+ABSPATH=/usr/share/backgrounds/manjaro-$DE/
 
 clear
 echo "#################################"

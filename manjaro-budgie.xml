@@ -2,72 +2,128 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 <wallpaper>
-<name>/usr/share/backgrounds/Budgie_minimal wall.jpg</name>
-<filename>/usr/share/backgrounds/Budgie_minimal wall.jpg</filename>
+<name>/usr/share/backgrounds/manjaro-budgie/07-2.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/07-2.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
-<name>/usr/share/backgrounds/budgie wall.jpg</name>
-<filename>/usr/share/backgrounds/budgie wall.jpg</filename>
+<name>/usr/share/backgrounds/manjaro-budgie/Budgie_minimal wall.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/Budgie_minimal wall.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
-<name>/usr/share/backgrounds/dark_grey_texture_by_tefrem34.jpg</name>
-<filename>/usr/share/backgrounds/dark_grey_texture_by_tefrem34.jpg</filename>
+<name>/usr/share/backgrounds/manjaro-budgie/budgie wall.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/budgie wall.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
-<name>/usr/share/backgrounds/manjaro-gnome-lockscreen_1920_1200px.jpg</name>
-<filename>/usr/share/backgrounds/manjaro-gnome-lockscreen_1920_1200px.jpg</filename>
+<name>/usr/share/backgrounds/manjaro-budgie/dark_grey_texture_by_tefrem34.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/dark_grey_texture_by_tefrem34.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
-<name>/usr/share/backgrounds/manjaro_stripes_wallpaper_1920x1200px.jpg</name>
-<filename>/usr/share/backgrounds/manjaro_stripes_wallpaper_1920x1200px.jpg</filename>
+<name>/usr/share/backgrounds/manjaro-budgie/future-logo2.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/future-logo2.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
-<name>/usr/share/backgrounds/manjaro_triangles_wallpaper_1920x1200px.jpg</name>
-<filename>/usr/share/backgrounds/manjaro_triangles_wallpaper_1920x1200px.jpg</filename>
+<name>/usr/share/backgrounds/manjaro-budgie/islandiya-vestrahorn-6864.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/islandiya-vestrahorn-6864.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
-<name>/usr/share/backgrounds/budgieClear_1600x1200.png</name>
-<filename>/usr/share/backgrounds/budgieClear_1600x1200.png</filename>
+<name>/usr/share/backgrounds/manjaro-budgie/manjaro-gnome-lockscreen_1920_1200px.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/manjaro-gnome-lockscreen_1920_1200px.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
-<name>/usr/share/backgrounds/budgieClear_1920x1080.png</name>
-<filename>/usr/share/backgrounds/budgieClear_1920x1080.png</filename>
+<name>/usr/share/backgrounds/manjaro-budgie/manjaro_stripes_wallpaper_1920x1200px.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/manjaro_stripes_wallpaper_1920x1200px.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
-<name>/usr/share/backgrounds/budgieDark_1920x1080.png</name>
-<filename>/usr/share/backgrounds/budgieDark_1920x1080.png</filename>
+<name>/usr/share/backgrounds/manjaro-budgie/manjaro_triangles_wallpaper_1920x1200px.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/manjaro_triangles_wallpaper_1920x1200px.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro-budgie/manjaro_wallpaper.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/manjaro_wallpaper.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro-budgie/woody2-2.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/woody2-2.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro-budgie/arc-minimalistic.png</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/arc-minimalistic.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro-budgie/budgieClear_1600x1200.png</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/budgieClear_1600x1200.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro-budgie/budgieClear_1920x1080.png</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/budgieClear_1920x1080.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro-budgie/budgieDark_1920x1080.png</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/budgieDark_1920x1080.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro-budgie/rolling.png</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/rolling.png</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
