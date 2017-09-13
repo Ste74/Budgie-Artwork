@@ -50,6 +50,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
+<name>/usr/share/backgrounds/manjaro-budgie/manjaro-budgie.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-budgie/manjaro-budgie.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
 <name>/usr/share/backgrounds/manjaro-budgie/manjaro-gnome-lockscreen_1920_1200px.jpg</name>
 <filename>/usr/share/backgrounds/manjaro-budgie/manjaro-gnome-lockscreen_1920_1200px.jpg</filename>
   <options>stretched</options>
