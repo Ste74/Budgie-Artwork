@@ -2,35 +2,35 @@
 
 #set variable
 
-DE=budgie
-ABSPATH=/usr/share/backgrounds/manjaro-$DE/
+THEME=$(awk '/DTHEME/ {print $3; exit}' Makefile ) #set automatically name of theme from Makefile
+ABSPATH=/usr/share/backgrounds/$THEME/
 
-if [ -e manjaro-$DE.xml ]; then
-    rm manjaro-$DE.xml
+if [ -e $THEME.xml ]; then
+    rm $THEME.xml
 fi
 
-# creating the head of mybackgrounds.xml
+# creating the head of backgrounds.xml
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
 <!DOCTYPE wallpapers SYSTEM \"gnome-wp-list.dtd\">
-<wallpapers>" > manjaro-$DE.xml
+<wallpapers>" > $THEME.xml
 
 # looking for all pictures in DIRECTORY
-echo "OK. Now we are creating manjaro-$DE.xml"
+echo "OK. Now we are creating $THEME.xml"
 
 # This script is looking for .png and .jpg files only, but you can add here another file types. The "<options>stretched</options>" should work best for unknow sized files.
-for i in $(ls *.png) $(ls *jpg); do
-echo "<wallpaper>
-<name>${ABSPATH}$i</name>
+for i in $(ls *jpg); do #Note if we add png files simply add $(ls *png)
+echo "<wallpaper deleted="\"false\"">
+<name>${i::(-4)}</name>
 <filename>${ABSPATH}$i</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
-</wallpaper>" >> manjaro-$DE.xml
+</wallpaper>" >> $THEME.xml
 done
 
-# creating the bottom of mybackgrounds.xml
-echo "</wallpapers>" >> manjaro-$DE.xml
+# creating the bottom of backgrounds.xml
+echo "</wallpapers>" >> $THEME.xml
 
 echo
 echo "#################################"
