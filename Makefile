@@ -3,7 +3,7 @@
 DTHEME     =	manjaro-budgie
 PREFIX     = 	/usr
 DPATH 	   =	$(DESTDIR)$(PREFIX)/share/backgrounds/$(DTHEME)
-DXML       =    $(DESTDIR)$(PREFIX)/share/mate-background-properties
+DXML       =    $(DESTDIR)$(PREFIX)/share/gnome-background-properties
 DEL 	   =  	rm -Rf
 INSTD 	   =	install -Dm644 -t
 	
